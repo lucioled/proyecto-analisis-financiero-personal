@@ -1,0 +1,413 @@
+year,month,amount,item,category
+2022,enero," $7,690.00 ",zapatillas,hogar
+2022,enero, $470.00 ,comestibles,hogar
+2022,enero, $300.00 ,cucatrap,hogar
+2022,enero, $200.00 ,verduras,hogar
+2022,enero, $150.00 ,desodorante,hogar
+2022,enero, $100.00 ,banana,hogar
+2022,enero," $3,800.00 ",insumos burguer,trabajo
+2022,enero, $840.00 ,birra,recreacion
+2022,enero, $500.00 ,bizcochuelo,recreacion
+2022,enero, $400.00 ,g,recreacion
+2022,enero, $280.00 ,balbo,recreacion
+2022,enero, $200.00 ,g,recreacion
+2022,enero, $200.00 ,galles,recreacion
+2022,enero, $110.00 ,pepito,recreacion
+2022,enero, $80.00 ,galles,recreacion
+2022,enero," $35,000.00 ",bici,otros
+2022,enero," $2,500.00 ",venti,otros
+2022,enero, $200.00 ,sube,otros
+2022,enero, $100.00 ,recarga,otros
+2022,febrero," $5,000.00 ",procesadora,hogar
+2022,febrero," $1,500.00 ",servicios,hogar
+2022,febrero, $630.00 ,3k mani,hogar
+2022,febrero, $600.00 ,5k arvejas,hogar
+2022,febrero, $500.00 ,yerba,hogar
+2022,febrero, $300.00 ,garrafa,hogar
+2022,febrero, $300.00 ,verduras,hogar
+2022,febrero, $200.00 ,garrafa,hogar
+2022,febrero, $140.00 ,verduras,hogar
+2022,febrero, $100.00 ,fruta ,hogar
+2022,febrero, $70.00 ,cacao amargo,hogar
+2022,febrero, $40.00 ,coco rallado,hogar
+2022,febrero," $1,290.00 ",insumos burguer,trabajo
+2022,febrero," $1,000.00 ",insumos burguer,trabajo
+2022,febrero, $470.00 ,insumos burguer,trabajo
+2022,febrero, $230.00 ,insumos burguer,trabajo
+2022,febrero," $1,550.00 ",linga,otros
+2022,febrero, $420.00 ,luces bici,otros
+2022,febrero, $170.00 ,fibron,otros
+2022,febrero, $50.00 ,envío fallido,otros
+2022,marzo," $1,500.00 ",servicios casa,hogar
+2022,marzo," $1,560.00 ",perfume,hogar
+2022,marzo," $1,400.00 ",velador,hogar
+2022,marzo, $700.00 ,legumbres,hogar
+2022,marzo, $650.00 ,3k mani,hogar
+2022,marzo, $480.00 ,verduras burguer,hogar
+2022,marzo, $300.00 ,verduras,hogar
+2022,marzo, $200.00 ,200 yuyos mate,hogar
+2022,marzo, $200.00 ,garrafa,hogar
+2022,marzo, $200.00 ,harina y sal,hogar
+2022,marzo, $150.00 ,desodorante,hogar
+2022,marzo, $100.00 ,garrafa,hogar
+2022,marzo, $100.00 ,banana,hogar
+2022,marzo, $100.00 ,cacao,hogar
+2022,marzo," $18,100.00 ",silla ergonomica,trabajo
+2022,marzo, $100.00 ,bizcochos,recreacion
+2022,marzo," $2,000.00 ",Ethereum,otros
+2022,marzo," $1,650.00 ",tierra indoor,otros
+2022,marzo, $300.00 ,corte,otros
+2022,abril," $2,000.00 ",provista,hogar
+2022,abril," $1,500.00 ",servicios,hogar
+2022,abril," $1,600.00 ",toallon,hogar
+2022,abril," $2,650.00 ",pantalon,hogar
+2022,abril, $900.00 ,viveres,hogar
+2022,abril, $600.00 ,3k mani,hogar
+2022,abril, $590.00 ,1k yerba,hogar
+2022,abril, $450.00 ,salsa de soja,hogar
+2022,abril, $140.00 ,bananas,hogar
+2022,abril, $125.00 ,sahumerio,hogar
+2022,abril," $17,500.00 ",Soundcore LIFE Q20,trabajo
+2022,abril, $ 360 ,antibioticos,salud
+2022,abril," $2,900.00 ",flopper,recreacion
+2022,abril," $1,400.00 ",birra ,recreacion
+2022,abril, $500.00 ,birra ,recreacion
+2022,abril, $400.00 ,papas fritas,recreacion
+2022,abril, $350.00 ,liso,recreacion
+2022,abril, $200.00 ,facturas,recreacion
+2022,abril, $150.00 ,pan casero,recreacion
+2022,abril, $100.00 ,recarga,otros
+2022,abril, $100.00 ,recarga,otros
+2022,mayo," $4,220.00 ",provista,hogar
+2022,mayo," $3,900.00 ",cafetera hudson,hogar
+2022,mayo," $2,700.00 ",Café brasil,hogar
+2022,mayo," $2,000.00 ",servicios,hogar
+2022,mayo," $2,000.00 ",3k pasta mani,hogar
+2022,mayo, $450.00 ,garrafa,hogar
+2022,mayo, $70.00 ,esponja,hogar
+2022,mayo," $4,620.00 ",Redragon shiva,trabajo
+2022,mayo," $4,000.00 ",webcam pc,trabajo
+2022,mayo," $2,600.00 ",adaptador Bluetooth,trabajo
+2022,mayo," $2,200.00 ",Micro Boya by-m1,trabajo
+2022,mayo," $ 1,700 ",consulta odontologo,salud
+2022,mayo, $ 400 ,ketorolaco,salud
+2022,mayo, $ 150 ,ibuprofeno,salud
+2022,mayo," $1,000.00 ",fernet y queso vegano,recreacion
+2022,mayo, $880.00 ,cumple luci,recreacion
+2022,mayo, $650.00 ,birra,recreacion
+2022,mayo, $650.00 ,goloseadas,recreacion
+2022,mayo," $4,500.00 ",flopper,otros
+2022,mayo," $3,200.00 ",Envío,otros
+2022,mayo, $300.00 ,recarga,otros
+2022,mayo, $300.00 ,g,otros
+2022,mayo, $200.00 ,donacion wikipedia,otros
+2022,junio," $5,260.00 ",provista,hogar
+2022,junio," $2,700.00 ",servicios,hogar
+2022,junio,,,
+2022,junio," $2,440.00 ",adaptador wifi,trabajo
+2022,junio," $ 1,600 ",sos,salud
+2022,junio," $ 4,500 ",radiografia,salud
+2022,junio," $1,750.00 ",bebidas,recreacion
+2022,junio," $1,500.00 ",game pass,recreacion
+2022,junio, $630.00 ,goloseadas,recreacion
+2022,junio, $500.00 ,pizzas,recreacion
+2022,junio," $6,000.00 ",discos y barra,otros
+2022,junio," $1,500.00 ",tratamientos papi,otros
+2022,junio, $700.00 ,recarga,otros
+2022,junio, $250.00 ,regalo papi,otros
+2022,junio, $200.00 ,sube,otros
+2022,julio," $8,000.00 ",cucheta,hogar
+2022,julio," $6,580.00 ",provista,hogar
+2022,julio," $6,500.00 ",alquiler,hogar
+2022,julio," $2,000.00 ",internet ,hogar
+2022,julio, $370.00 ,sahumerios,hogar
+2022,julio," $1,300.00 ",ferretería,hogar
+2022,julio, $240.00 ,secador,hogar
+2022,julio," $2,200.00 ",salida a santa,recreacion
+2022,julio," $1,800.00 ",birra en tres pintas,recreacion
+2022,julio, $500.00 ,pizzas mate,recreacion
+2022,julio, $400.00 ,vinos,recreacion
+2022,julio, $410.00 ,cosas docencia,trabajo
+2022,julio," $6,000.00 ",discos y barra,otros
+2022,julio," $2,500.00 ",servicios casa viejos,otros
+2022,julio," $2,000.00 ",goloseadas,otros
+2022,julio," $1,500.00 ",game pass,otros
+2022,julio, $800.00 ,recarga virtual,otros
+2022,julio, $600.00 ,paja,otros
+2022,julio, $400.00 ,corte,otros
+2022,julio, $400.00 ,taxijuanse,otros
+2022,julio, $350.00 ,alimento canela,otros
+2022,julio, $100.00 ,SUBE,otros
+2022,agosto," $ 6,500 ",alquiler,hogar
+2022,agosto," $ 6,000 ",provista,hogar
+2022,agosto," $ 2,900 ",4k pasta mani,hogar
+2022,agosto," $ 1,200 ",internet,hogar
+2022,agosto, $ 400 ,gas,hogar
+2022,agosto," $ 1,400 ",luz,hogar
+2022,agosto," $ 1,500 ",carpeta docente,trabajo
+2022,agosto," $ 1,100 ",cosas docencia,trabajo
+2022,agosto," $ 5,200 ",medicamentos odontología,salud
+2022,agosto," $ 1,900 ",SOS,salud
+2022,agosto," $ 1,500 ",tratamientos mami,salud
+2022,agosto," $ 1,600 ",alcohol,recreacion
+2022,agosto, $ 800 ,pizzas,recreacion
+2022,agosto, $ 500 ,cumple bomba,recreacion
+2022,agosto," $ 2,800 ",paja,otros
+2022,agosto," $ 1,300 ",arreglo bici,otros
+2022,agosto," $ 1,000 ",goloseadas,otros
+2022,agosto, $ 700 ,SUBE,otros
+2022,agosto, $ 400 ,corte,otros
+2022,septiembre," $6,900.00 ",alquiler,hogar
+2022,septiembre," $4,400.00 ",provista,hogar
+2022,septiembre," $1,200.00 ",internet,hogar
+2022,septiembre," $3,500.00 ",cartucho impresora,trabajo
+2022,septiembre, $700.00 ,cosas escuela,trabajo
+2022,septiembre," $2,000.00 ",SOS,salud
+2022,septiembre," $1,800.00 ",game pass,recreacion
+2022,septiembre, $300.00 ,vino,recreacion
+2022,septiembre," $1,600.00 ",pool,recreacion
+2022,septiembre," $1,000.00 ",cumple bomba,recreacion
+2022,septiembre," $2,550.00 ",goloseadas,recreacion
+2022,septiembre," $13,500.00 ",guitarra,recreacion
+2022,septiembre, $900.00 ,ge,recreacion
+2022,septiembre," $1,000.00 ",corte,otros
+2022,septiembre," $1,800.00 ",SUBE,otros
+2022,septiembre," $1,200.00 ",nafta viejo,otros
+2022,septiembre, $400.00 ,nafta tomi,otros
+2022,septiembre, $150.00 ,calecita,otros
+2022,septiembre," $7,500.00 ",celu jero,otros
+2022,septiembre, $500.00 ,sacrificio canela,otros
+2022,septiembre, $400.00 ,recarga cel,otros
+2022,octubre," $14,700.00 ",provista,hogar
+2022,octubre," $2,000.00 ",servicios,hogar
+2022,octubre, $850.00 ,pack movil,hogar
+2022,octubre, $700.00 ,gas,hogar
+2022,octubre," $19,900.00 ",Platzi,trabajo
+2022,octubre," $2,500.00 ",parlante BT,trabajo
+2022,octubre," $1,100.00 ",SUBE,trabajo
+2022,octubre, $970.00 ,cosas docencia,trabajo
+2022,octubre, $200.00 ,pelapapas,trabajo
+2022,octubre," $2,300.00 ",SOS,salud
+2022,octubre," $3,650.00 ",asado bomba,recreacion
+2022,octubre," $3,200.00 ",arreglo bici,recreacion
+2022,octubre," $2,400.00 ",ge,recreacion
+2022,octubre," $1,400.00 ",goloseadas,recreacion
+2022,octubre," $1,200.00 ",pool,recreacion
+2022,octubre, $700.00 ,birra,recreacion
+2022,octubre, $600.00 ,chordify,recreacion
+2022,octubre, $550.00 ,tabaco,recreacion
+2022,octubre," $7,500.00 ",celu jero,otros
+2022,octubre," $6,550.00 ",ropa,otros
+2022,octubre," $3,000.00 ",celu mami,otros
+2022,octubre," $1,000.00 ",corte,otros
+2022,octubre, $900.00 ,shampoo,otros
+2022,octubre, $900.00 ,regalo MAMI,otros
+2022,octubre, $200.00 ,viajes tomi,otros
+2022,octubre, $200.00 ,rifa ballesta,otros
+2022,octubre, $120.00 ,bicarbonato,otros
+2022,noviembre," $14,800.00 ",provista,hogar
+2022,noviembre," $3,000.00 ",aporte casa,hogar
+2022,noviembre, $700.00 ,internet,hogar
+2022,noviembre, $600.00 ,llave candado,hogar
+2022,noviembre, $450.00 ,gas,hogar
+2022,noviembre," $18,000.00 ",netbook,trabajo
+2022,noviembre," $1,000.00 ",sube,trabajo
+2022,noviembre, $200.00 ,cosas docencia,trabajo
+2022,noviembre," $3,800.00 ",gym,salud
+2022,noviembre," $2,300.00 ",SOS,salud
+2022,noviembre," $6,300.00 ",goloseadas,recreacion
+2022,noviembre," $4,300.00 ",recepción jose,recreacion
+2022,noviembre," $4,200.00 ",alcohol,recreacion
+2022,noviembre," $2,600.00 ",cafecito,recreacion
+2022,noviembre," $2,300.00 ",cumple trillis,recreacion
+2022,noviembre," $2,100.00 ",salida santa,recreacion
+2022,noviembre, $600.00 ,ge,recreacion
+2022,noviembre,,,recreacion
+2022,noviembre," $2,500.00 ",celu papi,otros
+2022,noviembre, $650.00 ,pago mastercard,otros
+2022,noviembre, $600.00 ,corte de pelo,otros
+2022,diciembre," $10,670.00 ",provista,hogar
+2022,diciembre," $3,000.00 ",aporte casa,hogar
+2022,diciembre," $1,000.00 ",nico,hogar
+2022,diciembre, $600.00 ,internet,hogar
+2022,diciembre, $350.00 ,gas,hogar
+2022,diciembre," $6,160.00 ",goloseadas,recreacion
+2022,diciembre," $5,160.00 ",alcohol,recreacion
+2022,diciembre," $5,000.00 ",ge,recreacion
+2022,diciembre," $2,000.00 ",cafecito,recreacion
+2022,diciembre, $500.00 ,carpeta dai,recreacion
+2022,diciembre, $280.00 ,bubucela,recreacion
+2022,diciembre," $2,600.00 ",SOS,salud
+2022,diciembre, $620.00 ,shampoo,salud
+2022,diciembre," $1,250.00 ",viajes tomi,otros
+2022,diciembre," $1,200.00 ",corte,otros
+2022,diciembre," $1,000.00 ",sube,otros
+2022,diciembre," $1,000.00 ",recarga celu,otros
+2022,diciembre, $600.00 ,regalito,otros
+2023,enero," $7,500.00 ",seña alquiler,hogar
+2023,enero," $3,660.00 ",provista,hogar
+2023,enero," $1,400.00 ",copias llaves,hogar
+2023,enero, $700.00 ,garrafa,hogar
+2023,enero, $200.00 ,fotocopias,trabajo
+2023,enero," $2,600.00 ",SOS,salud
+2023,enero, $300.00 ,tafirol,salud
+2023,enero," $3,880.00 ",goloseadas,recreacion
+2023,enero," $2,250.00 ",alcohol,recreacion
+2023,enero, $400.00 ,finito,recreacion
+2023,enero, $300.00 ,worms,recreacion
+2023,enero, $200.00 ,cafecito,recreacion
+2023,enero," $315,000.00 ",Zanella ZB,otros
+2023,enero," $9,400.00 ",sell.Muni,otros
+2023,enero," $1,500.00 ",CENAT,otros
+2023,enero," $1,000.00 ",grupo y factor sanguíneo,otros
+2023,enero, $800.00 ,tarjeta crédito,otros
+2023,enero, $700.00 ,corte,otros
+2023,enero, $500.00 ,recarga,otros
+2023,enero, $350.00 ,nafta,otros
+2023,febrero," $25,400.00 ",alquiler,hogar
+2023,febrero," $7,750.00 ",garrafa,hogar
+2023,febrero," $7,000.00 ",provista,hogar
+2023,febrero," $2,500.00 ",luz casa viejos,hogar
+2023,febrero," $2,400.00 ",pintura,hogar
+2023,febrero," $1,400.00 ",alacena,hogar
+2023,febrero," $2,400.00 ",prod.limpieza,hogar
+2023,febrero, $700.00 ,llave,hogar
+2023,febrero, $500.00 ,secaplatos,hogar
+2023,febrero, $270.00 ,fotocopias proyecto,trabajo
+2023,febrero," $3,800.00 ",alcohol,recreacion
+2023,febrero," $1,100.00 ",gastos acampada,recreacion
+2023,febrero," $8,600.00 ",cubierta y cámara,otros
+2023,febrero," $3,400.00 ",recarga,otros
+2023,febrero," $1,320.00 ",nafta papi,otros
+2023,febrero, $700.00 ,corte,otros
+2023,febrero, $200.00 ,sopapa,otros
+2023,marzo," $12,500.00 ",alquiler,hogar
+2023,marzo," $9,820.00 ",provista,hogar
+2023,marzo," $3,660.00 ",alicate y tarugos,hogar
+2023,marzo," $1,360.00 ",cortina y caño,hogar
+2023,marzo," $1,330.00 ",alacena,hogar
+2023,marzo," $1,000.00 ",luz papi,hogar
+2023,marzo, $150.00 ,prod limpieza,hogar
+2023,marzo," $7,600.00 ",service moto,trabajo
+2023,marzo," $6,000.00 ",curso electricista,trabajo
+2023,marzo," $3,900.00 ",nafta,trabajo
+2023,marzo," $2,300.00 ",RUS seguro,trabajo
+2023,marzo," $1,470.00 ",monotributo,trabajo
+2023,marzo," $1,000.00 ",pedidos ya,trabajo
+2023,marzo, $600.00 ,seguro,trabajo
+2023,marzo, $400.00 ,recarga,trabajo
+2023,marzo, $150.00 ,pilas,trabajo
+2023,marzo," $5,400.00 ",SOS,salud
+2023,marzo, $950.00 ,gotas oticas,salud
+2023,marzo," $2,800.00 ",goloseadas,recreacion
+2023,marzo," $1,800.00 ",clasebar,recreacion
+2023,marzo," $1,630.00 ",pizza y birra,recreacion
+2023,marzo, $900.00 ,birra,recreacion
+2023,marzo," $1,600.00 ",tarjeta de crédito,otros
+2023,marzo, $600.00 ,rifa,otros
+2023,marzo, $520.00 ,tarjetas rappi,otros
+2023,marzo, $500.00 ,aporte benefico,otros
+2023,marzo, $100.00 ,propina,otros
+2023,abril," $12,500.00 ",alquiler,hogar
+2023,abril," $9,340.00 ",provista,hogar
+2023,abril," $5,000.00 ",mesa de luz,hogar
+2023,abril," $4,250.00 ",internet,hogar
+2023,abril," $3,000.00 ",boxers,hogar
+2023,abril," $1,000.00 ",shampoo,hogar
+2023,abril," $1,000.00 ",gas,hogar
+2023,abril," $2,350.00 ",nafta,trabajo
+2023,abril," $2,300.00 ",seguro,trabajo
+2023,abril, $300.00 ,fotocopias,trabajo
+2023,abril," $3,120.00 ",SOS,salud
+2023,abril," $2,300.00 ",cumple male,recreacion
+2023,abril," $2,250.00 ",g ,recreacion
+2023,abril," $1,300.00 ",cumple sabi,recreacion
+2023,abril," $1,000.00 ",postre nico,recreacion
+2023,abril," $1,000.00 ",recarga,recreacion
+2023,abril, $700.00 ,torta negra,recreacion
+2023,abril," $4,000.00 ",cuota zapas,otros
+2023,abril, $800.00 ,corte,otros
+2023,abril, $200.00 ,nafta papi,otros
+2023,mayo," $12,500.00 ", Alquiler ,hogar
+2023,mayo," $9,550.00 ", provista ,hogar
+2023,mayo," $2,815.00 ", internet ,hogar
+2023,mayo," $2,000.00 ", gas ,hogar
+2023,mayo, $600.00 , prod limpieza ,hogar
+2023,mayo," $3,500.00 ", adaptador internet ,trabajo
+2023,mayo," $2,500.00 ", nafta ,trabajo
+2023,mayo," $1,260.00 ", pasaje el ramblon ,trabajo
+2023,mayo," $1,000.00 ", recarga celu ,trabajo
+2023,mayo, $400.00 , impresiones ,trabajo
+2023,mayo," $3,120.00 ", SOS ,salud
+2023,mayo," $2,300.00 ", RUS Seguro ,salud
+2023,mayo," $2,250.00 ", postre ,recreacion
+2023,mayo," $1,100.00 ", empanadas ,recreacion
+2023,mayo, $840.00 , facturas ,recreacion
+2023,mayo, $750.00 , g ,recreacion
+2023,mayo, $300.00 , bizcochos ,recreacion
+2023,mayo," $4,800.00 ", tarjeta de credito mantenimiento ,otros
+2023,mayo," $3,000.00 ", perfume ,otros
+2023,mayo," $1,000.00 ", corte de pelo ,otros
+2023,mayo," $1,000.00 ", soquetes ,otros
+2023,mayo, $430.00 , foco ,otros
+2023,mayo, $380.00 , cuidacoche ,otros
+2023,junio," $12,500.00 ", Alquiler ,hogar
+2023,junio," $6,100.00 ", provista ,hogar
+2023,junio," $3,200.00 ", internet ,hogar
+2023,junio," $1,500.00 ", Shampoo ,hogar
+2023,junio," $1,250.00 ", Garrafa ,hogar
+2023,junio, $500.00 , prod limpieza ,hogar
+2023,junio," $3,400.00 ", nafta ,trabajo
+2023,junio," $3,000.00 ", Pasajes el ramblon ,trabajo
+2023,junio, $500.00 , Cooperadora ,trabajo
+2023,junio, $700.00 , fotocopias ,trabajo
+2023,junio, $240.00 , precintos ,trabajo
+2023,junio," $2,500.00 ", goloseadas ,recreacion
+2023,junio," $2,000.00 ", Choripanes ,recreacion
+2023,junio," $1,500.00 ", birra ,recreacion
+2023,junio," $1,400.00 ", pescado frito ,recreacion
+2023,junio," $1,400.00 ", birra ,recreacion
+2023,junio," $1,100.00 ", Dia del padre ,recreacion
+2023,junio, $600.00 , entrada clasebar ,recreacion
+2023,junio, $600.00 , G ,recreacion
+2023,junio," $8,660.00 ", jogger y mangalarga ,otros
+2023,junio," $2,000.00 ", corte de pelo ,otros
+2023,junio, $500.00 , cuidacoches ,otros
+2023,junio, $200.00 , Sedas ,otros
+2023,junio, $200.00 , Panuelos y agua ,otros
+2023,junio, $100.00 , Malabarista ,otros
+2023,julio," $17,750.00 ", provista ,hogar
+2023,julio," $12,500.00 ", alquiler ,hogar
+2023,julio," $4,250.00 ", cambio cerradura ,hogar
+2023,julio," $3,500.00 ", internet ,hogar
+2023,julio," $1,400.00 ", garrafa ,hogar
+2023,julio, $950.00 , sahumerio ,hogar
+2023,julio, $670.00 , foco ,hogar
+2023,julio," $10,200.00 ", service moto ,trabajo
+2023,julio," $4,500.00 ", guantes moto ,trabajo
+2023,julio," $3,000.00 ", nafta ,trabajo
+2023,julio," $1,500.00 ", recategorizacion ,trabajo
+2023,julio," $1,000.00 ", pasajes el ramblon ,trabajo
+2023,julio, $900.00 , recarga celu ,trabajo
+2023,julio, $900.00 , carpetas y hojas ,trabajo
+2023,julio, $200.00 , fotocopia ,trabajo
+2023,julio," $3,960.00 ", goloseadas ,recreacion
+2023,julio," $3,050.00 ", vino ,recreacion
+2023,julio," $2,700.00 ", g ,recreacion
+2023,julio," $1,950.00 ", salida gurises ,recreacion
+2023,julio," $1,500.00 ", entrada show coral ,recreacion
+2023,julio," $1,200.00 ", cine  ,recreacion
+2023,julio, $500.00 , empanadas pal coro ,recreacion
+2023,julio," $7,000.00 ", cuota sos ,salud
+2023,julio," $2,300.00 ", rus seguro ,salud
+2023,julio," $45,000.00 ", amplificador ,otros
+2023,julio," $10,000.00 ", estuche guitarra ,otros
+2023,julio," $5,700.00 ", tarjeta de credito ,otros
+2023,julio," $4,600.00 ", pantalon ,otros
+2023,julio," $1,380.00 ", regalo papi ,otros
+2023,julio," $1,300.00 ", adaptador plug ,otros
+2023,julio," $1,000.00 ", corte de pelo ,otros
+2023,julio," $1,000.00 ", regalo tato y ema ,otros
+2023,julio, $400.00 , alcohol etilico ,otros
+2023,julio, $200.00 , cartonero ,otros
+2023,julio, $200.00 , impuesto mpago ,otros
